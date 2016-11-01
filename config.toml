@@ -1,0 +1,10 @@
+baseurl = "http://kajkowski.com"
+languageCode = "en-us"
+title = "Krzysztof Kajkowski Consulting"
+theme = "grey"
+disqusShortname = "krzysztofkajkowski"
+publishdir = "public/"
+
+[params]
+    description = "Krzysztof Kajkowski Project and General Management Consulting"
+    locale = "en-US"
